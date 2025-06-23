@@ -10,6 +10,7 @@ Yuanshan (Olaf) Zhang
 
 ## Overview
 This project analyzes the performance of a portfolio consisting of FAANG stocks (Facebook, Apple, Amazon, Netflix, and Google). The analysis includes data extraction, transformation, visualization, and performance evaluation using key financial metrics.
+Tableau Dashboard Link: https://public.tableau.com/views/BA775DashboardA10_17022275738370/FAANGPortfolioAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Features
 - **Data Extraction**: Fetches historical stock prices from Yahoo Finance.
